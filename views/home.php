@@ -58,7 +58,7 @@
                                         <div class="col-12">
                                             <div class="form-icon-input form-size-lg form-fs-lg">
                                                 <select class="form-select js-choice" data-search-enabled="true">
-                                                    <option value="">Search hotel</option>
+                                                    <option value="">Search homes</option>
                                                     <option>San Jacinto, USA</option>
                                                     <option>North Dakota, Canada</option>
                                                     <option>West Virginia, Paris</option>

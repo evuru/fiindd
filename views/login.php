@@ -22,8 +22,8 @@
                             <div class="col-lg-6 order-1">
                                 <div class="p-4 p-sm-7">
                                     <!-- Logo -->
-                                    <a href="index.html">
-                                        <img class="h-50px mb-4" src="assets/images/logo-icon.svg" alt="logo">
+                                    <a href="/">
+                                        <img class="h-50px mb-4" src="assets/images/BfHrce01 (3).svg" alt="logo">
                                     </a>
                                     <!-- Title -->
                                     <h1 class="mb-2 h3">Welcome back</h1>
@@ -72,7 +72,7 @@
                                         </div>
 
                                         <!-- Copyright -->
-                                        <div class="text-primary-hover mt-3 text-center"> Copyrights ©2023 Booking. Build by <a href="https://www.webestica.com/">Webestica</a>. </div>
+                                        <div class="text-primary-hover mt-3 text-center"> Copyrights ©2023 fiindd. by <a href="https://33loop.com/">33loop</a>. </div>
                                     </form>
                                     <!-- Form END -->
                                 </div>

@@ -99,8 +99,8 @@
         <div class="container">
             <!-- Logo START -->
             <a class="navbar-brand" href="/">
-                <img class="light-mode-item navbar-brand-item" src="assets/images/logo.svg" alt="logo">
-                <img class="dark-mode-item navbar-brand-item" src="assets/images/logo-light.svg" alt="logo">
+                <img class="light-mode-item navbar-brand-item" src="assets/images/BfHrce01 (3).svg" alt="logo">
+                <img class="dark-mode-item navbar-brand-item" src="assets/images/BfHrce01 (3).svg" alt="logo">
             </a>
             <!-- Logo END -->
 
@@ -302,7 +302,7 @@ Footer START -->
             <div class="container">
                 <div class="d-lg-flex justify-content-between align-items-center py-3 text-center text-lg-start">
                     <!-- copyright text -->
-                    <div class="text-muted text-primary-hover"> Copyrights ©2023 Booking. Build by <a href="https://www.webestica.com/" class="text-muted">Webestica</a>. </div>
+                    <div class="text-muted text-primary-hover"> Copyrights ©2023 fiindd. by <a href="https://33loop.com/" class="text-muted">33loop</a>. </div>
                     <!-- copyright links-->
                     <div class="nav mt-2 mt-lg-0">
                         <ul class="list-inline text-primary-hover mx-auto mb-0">
