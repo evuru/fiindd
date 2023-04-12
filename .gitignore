@@ -1,0 +1,6 @@
+vendor
+.idea
+.env
+.home.php
+core
+template
