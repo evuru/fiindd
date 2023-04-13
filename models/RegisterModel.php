@@ -15,7 +15,7 @@ class RegisterModel extends DatabaseModel {
     public string   $email='';
     public string   $password='';
     public string   $cpassword='';
-    public string      $status = self::STATUS_NV;
+    public string   $status = self::STATUS_NV;
 
 
     public function rules(): array{
