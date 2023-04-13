@@ -148,7 +148,7 @@
 
                                     <!-- Button -->
                                     <div class="text-center pt-0">
-                                        <a class="btn btn-lg btn-primary mb-n7" href="#">Search Hotel <i class="bi bi-arrow-right ps-3"></i></a>
+                                        <a class="btn btn-lg btn-primary mb-n7" href="#">Search Homes <i class="bi bi-arrow-right ps-3"></i></a>
                                     </div>
                                 </div>
                             </form>
