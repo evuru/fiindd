@@ -2,7 +2,7 @@
 namespace app\controllers;
 
 use evuru\chintuaphpmvc\Application;
-use evuru\chintuaphpmvc\controller;
+use evuru\chintuaphpmvc\Controller;
 use evuru\chintuaphpmvc\request;
 
 class siteController extends Controller {
